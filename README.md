@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AsmaaNabilBakr
-- 👀 I’m interested in web Frontend developing, ReactJs, TypeScript, Sass, Webpack, Redux, and Sharepoint
-- 🌱 I’m currently learning QraphQL and Unit Testing
+- 👀 I’m interested in web Frontend developing, ReactJs, TypeScript,JS, NextJs, Sass, Webpack, Redux, Jest and Sharepoint
 - 📫 You can reach me on Linkedin https://www.linkedin.com/in/asmaa-nabilbakr/
 
 <!---
